@@ -2,4 +2,4 @@
 Repositorio de la primera clase de problemas
 la primera subida al github desde local
 rama main
-
+v2
